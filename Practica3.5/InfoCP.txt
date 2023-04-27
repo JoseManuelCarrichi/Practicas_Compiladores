@@ -1,0 +1,4 @@
+01-16 ->CDMX
+Consta de cinco dígitos, de los cuales los dos dos primeros identifican el estado o parte del mismo. 
+Para el caso de la Ciudad de México, los dos primeros dígitos representan sus respectivas alcaldías por 
+orden alfabético. Actualmente el inicio de código 00 no se encuentra en uso.

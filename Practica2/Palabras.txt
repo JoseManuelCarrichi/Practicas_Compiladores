@@ -1,0 +1,42 @@
+16198
+@dios
+al12ub
+-12879
++192
+<
+>=
+!=
+compiladores	1CV25
+
+		Pr@ctica1	x >=	suma
+
+printf	3.25	*	Carlos
+
+h$la
+int
+!
+!= =
+!0==
+==
+===
+SCANf
++
++7
+@hola
+1numero
+	numer0
+hola > 3.27
+x <= y 
+	-3.45e-4 x
+andrés curs@ compiladores
+
+		con toño 5cv14
+Compiladores	1cv25
+
+	pr@ctica2 x >= suma
+
+printf 3.25 * 2.74e-10 / +10
+
+65 ++ 321 *= 10
+
+\n /n

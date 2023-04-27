@@ -1,0 +1,3 @@
+Compiladores 5CV14 x1 >= 3.456
+
+	y < hol@ && z > 5 + 3.27 / 2
